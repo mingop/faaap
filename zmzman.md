@@ -53,7 +53,7 @@
  </table> 
   
  <div align="center">
-<img src="img/b_ornament_30_0M.png"></div></p> 
+<img src="imgs/b_ornament_30_0M.png"></div></p> 
 <a name=list><b>目录</b>
 <table>
  
@@ -196,7 +196,7 @@
 
 <a href=#list><h4 align="right">回目錄</a></h4>
 <div align="center">
-<img src="img/b_ornament_30_0M.png"></div></p>
+<img src="imgs/b_ornament_30_0M.png"></div></p>
 
 
 <table>
@@ -244,7 +244,7 @@
 
 <a href=#list><h4 align="right">回目錄</a></h4>
 <div align="center">
-<img src="img/b_ornament_30_0M.png"></div></p>
+<img src="imgs/b_ornament_30_0M.png"></div></p>
 
 <a name=1>
 <img src="imgs/2019-04-04_215215-3.jpg"></a>
@@ -814,7 +814,7 @@ Fritz Bauer于一九六三年主持了法兰克福审判，审判对像同样是
 水刑，被称为世界上最残忍的酷刑之一。就是人平躺在地上，手背后面，双手双脚被胶带紧紧地捆住，嘴里塞满袜子，再用胶带封严。然后施刑人用胶皮管子，不停的往其脸上浇水。因为嘴被封住，手脚被捆住，只能用鼻子喘气，而不停的浇水，人就会被呛得……很容易被呛死，就象被反复溺水，大脑变得一片空白，然后背过气去。据说，上吊和溺水自杀的人，救过来后不会再以这种形式自杀，就是因为太痛苦。而水刑则是让人反复经受溺水之苦。受过此刑的人都不敢回忆那段痛苦的经历，实在太恐怖了，无法用语言形容。</p>
 
 <div align="center">
-<img src="img/2004-9-30-weifang-changle-08--ss.jpg"></div>
+<img src="imgs/2004-9-30-weifang-changle-08--ss.jpg"></div>
 <div align="center">酷刑演示：浇凉水</div>
 </p>
 这是辽宁马三家劳教所迫害法轮功学员的手段之一，黑龙江牡丹江监狱曾去学习“经验”，牡丹江监狱各监区转化法轮功学员的主要负责人到马三家劳教所学了一个月，回来后就给法轮功学员普遍实施这种水刑。</p>
