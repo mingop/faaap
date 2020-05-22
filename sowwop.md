@@ -1,8 +1,8 @@
 
 <div align=center>
-<img src="imgs/wwsukk925.jpg" width=880></p> 
+<img src="imgs/wwsukk925.jpg" width=880></div></p> 
 
- </div>
+ 
   <!--<h4 align=center>免翻视频  http://61.228.179.169/300 </h4>-->
 
 <div align="center"><h3>请收藏网址(新闻视频)  https://bit.ly/3ezRQKo 随时连上最新即时IP</h3></div> </p>
@@ -13,21 +13,19 @@
  <div align="center"><h4>网页若出现〝你的连现不是私人连线″，点→进阶，再点→继续前往...，就可以看到视频了。 </h4> </div></p>
 
 
-<div align=center><h3><b><a href="https://github.com/mingop/faaap/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h3> </p> 
+<div align=center><h3><b><a href="https://github.com/mingop/faaap/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h3> </div></p> 
 
 
 <table>
  
 <!--<tr>
  <td>
- <a href="https://git.io/pamja">如何 “ 三退保命 ”</a>，<b>连上面→免翻视频 IP http://61.228.179.169/300  </b> →点 【三退大潮】--为什么要退党？ 可留言三退或用翻墙软件自己办理三退</td> -->
+ <a href="https://git.io/pamja">如何 “ 三退保命 ”</a>，<b>连上面→免翻视频 IP http://61.228.179.169/300  </b> →点 【三退大潮】--为什么要退党？ 可留言三退或用翻墙软件自己办理三退</td> </tr> -->
  
-</tr> 
-
 <tr>
  <td><h3 align="center">➤ 退党、退团、退队（三退）方法 ( 可使用真名、化名、小名退 )</h3>
- <a href="https://git.io/pamja"> 如何 “ 三退保命 ”</a>，请点击翻牆网站  https://bit.ly/3asSXIA  下载 { 翻牆软件 }→找 { 大紀元網站 }  ( http://www.dajiyuan.com ) 三退</td>
-</tr>  
+ <a href="https://git.io/pamja"> 如何 “ 三退保命 ”</a>，请点击翻牆网站  https://bit.ly/3asSXIA  下载 { 翻牆软件 }→找 { 大紀元網站 }  ( http://www.dajiyuan.com ) 三退</td></tr> 
+ 
   </table> 
 
 <div align=center>
