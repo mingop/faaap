@@ -2238,7 +2238,7 @@ https://youtu.be/x_P0lBpgscs
 
 之后，江莉一家试图寻求一些正义——但是他们的律师最后也被关押起来了，江莉的家也遭到袭击。江莉说，2010年时，她被毫无理由地解雇，并且也被拘留了。
 
-<div align="center"><img src="img/unal-768x432.jpg"></div>
+<div align="center"><img src="imgs/unal-768x432.jpg"></div>
 <div align="center">江莉认为他的父亲是“中共强摘器官”的受害人。(China Tribunal via FoxNews)</div></p>
 
 <b>中国“器官活摘”研究中心（COHRC）的研究和分析</b></p>
@@ -2255,7 +2255,7 @@ https://youtu.be/x_P0lBpgscs
 
 COHRC 的报告说：“中国（中共）后来声称死囚犯同意将器官捐献给国家，以赎回他们对国家犯下的罪行，中国（中共）声称这种做法已在2015年1月停止。但是，器官移植活动在中国是从2000年开始激增的，加上成千上万的器官移植游客前往中国购买器官的报导，这都表明，（中国）器官的供应量远远超过了单单从死刑犯那里获得的器官（数量）。”“中国移植业的规模和其它证据表明，中国（政府）有可能参与了‘强摘器官’和利用良心犯器官牟利的行为。”
 
-<div align="center"><img src="img/courtesychinatribunal-768x432.jpg"></div>
+<div align="center"><img src="imgs/courtesychinatribunal-768x432.jpg"></div>
 <div align="center">中国器官活摘研究中心（COHRC）的研究和分析结果公布在网络上。(Courtesy China Tribunal via FoxNews)</div></p>
 
 中国法庭”也申明：“本法庭未得到与中国器官移植产业相关的大规模基础设施已被拆除的证据，也未得到关于为何能如此轻易地获得人体器官的令人满意的解释，因此得出结论：器官强摘时至今日仍在进行。”
@@ -2275,7 +2275,7 @@ COHRC的带队研究员葛蕾丝·尹（Grace Yin）指称，（中国政府）�
 
 休达亚继续说：“新疆在2016-2017年期间收集了声纹（Voiceprint）和视网膜扫描信息，我们当中有些人担心它们可能会被用于器官配型。我们担心今天的中国共产党可能不仅在摘取法轮功学员的器官，而且还在摘取维吾尔人、藏传佛教徒、中国基督教徒和其他良心犯的器官。”
 
-<div align="center"><img src="img/ayar-768x432.jpg"></div>
+<div align="center"><img src="imgs/ayar-768x432.jpg"></div>
 <div align="center">流亡在美国的维吾尔族领导人萨利赫·休达亚（Salih Hudayar）。 (Supplied by Salih Hudayar via FoxNews)</div></p>
 
 <b>美国共和党已经采取行动</b></p>
@@ -2284,7 +2284,7 @@ COHRC的带队研究员葛蕾丝·尹（Grace Yin）指称，（中国政府）�
 
 加利福尼亚州的共和党全国委员会（RNC）委员肖恩·斯蒂尔（Shawn Steel）告诉福克斯说，“这是如此异常，令人难以置信。那个政府竟可以那样辱灭一个人的生命。 医疗旅游业是个大生意；如果你很有钱，你可以在一两周内得到所需的器官。每年都有成千上万的人为此牺牲掉，可是（这事）却没人讨论。”
 
-<div align="center"><img src="img/ded-768x432.jpg"></div>
+<div align="center"><img src="imgs/ded-768x432.jpg"></div>
 <div align="center">加利福尼亚州的共和党全国委员会（RNC）委员肖恩·斯蒂尔（Shawn Steel）。(Provided by Steel via FoxNews)</div></p>
 
 今年早些时候，斯蒂尔向美国共和党全国委员会（RNC）提出了一项决议案，谴责中共政府从囚犯那里“强摘器官”的做法，该决议在8月份的共和党夏季会议上获得一致通过。这标志着美国主要党派对此事第一次做出明确指控。
@@ -2302,7 +2302,7 @@ COHRC的带队研究员葛蕾丝·尹（Grace Yin）指称，（中国政府）�
 
 于溟接着说：“（高一喜）的家人只得到一堆骨灰。我们不能保持沉默。”
 
-<div align="center"><img src="img/bunal-768x432.jpg"></div>
+<div align="center"><img src="imgs/bunal-768x432.jpg"></div>
 <div align="center">法轮功学员于溟。(Courtesy China Tribunal via FoxNews)</div></p>
 
 福克斯视频新闻：https://www.foxnews.com/world/organ-harvesting-china-survivors-victims</p>
@@ -3549,7 +3549,7 @@ NBA事件让全世界看见，中共如何通过金钱、市场与民族主义�
 
 
 <a href=#list><h6 align="right">回目錄</h6></a>
- <img src="img/b_ornament_137_0M.png" width=880> 
+ <img src="imgs/b_ornament_137_0M.png" width=880> 
 <div align=center> 
 <a name=w20><h2>汪志远：全民反共反迫害开始了</h2></div> </p>
 
@@ -4856,7 +4856,7 @@ TF表示，这些资金可用于各种交易，包括购买股票、延长贷款
  
 反送中运动中最突出的是警察的角色，大部分香港人认为香港警察已经不是他们以前所认知的警察了。香港经历了6•12警察首次开枪镇压抗争者、7•21“警黑乡恶”勾结无差别暴力殴打市民、8•31警察冲入太子站无差别暴力殴打市民等，一系列的警察滥捕、滥暴等滥权行为，令香港变成军警城市。</p>
 
-<div align="center"><img src="img/S__23904262-600x399.jpg"></div> 
+<div align="center"><img src="imgs/S__23904262-600x399.jpg"></div> 
   <div align="center">8月31日，香港警方在铜锣湾拘捕一名抗争者。（大纪元）</div> </p>
 
 <b>警权无限 滥捕滥暴 扬言使用实弹枪械</b></p>
