@@ -94,7 +94,7 @@
 </a></td></tr>
 
 <tr><td width=900>
-➤ 海外三退大潮 https://git.io/ssoskk
+➤ 海外三退大潮 https://git.io/taptap
 </a></td></tr>
 </table>
 </p>
