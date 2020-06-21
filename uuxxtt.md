@@ -60,7 +60,7 @@
 </a></td></tr>
 
 <tr><td width=900>
-➤ 群体灭绝罪、反人类罪、酷刑罪在中国还在进行的罪行 https://git.io/ssbbaaa 
+➤ 群体灭绝罪、反人类罪、酷刑罪在中国还在进行的罪行 https://bit.ly/2TsquNa 
 </td></tr>
 
 <tr><td width=900>
@@ -80,7 +80,7 @@
 </a></td></tr>
 
 <tr><td width=900>
-➤ 迫害法轮功是死路 明白真相是生路 https://git.io/tr 
+➤ 迫害法轮功是死路 明白真相是生路 https://git.io/trtptp 
 </td></tr>
 
 <tr><td width=900>
@@ -132,7 +132,7 @@
 </a></td></tr>
 
 <tr><td width=900>
-➤ 18年前天安门那场大戏 为“秘密群体灭绝”开道 https://git.io/ssss2
+➤ 18年前天安门那场大戏 为“秘密群体灭绝”开道 https://git.io/zfzfzf
 </td></tr>
 
 <tr><td width=900>
@@ -160,7 +160,7 @@
 </a></td></tr>
 
 <tr><td width=900>
-➤ 他们的改变来自法轮大法 https://git.io/dadakk
+➤ 他们的改变来自法轮大法 https://git.io/ntntnt
 </a></td></tr>
 
 <tr><td width=900>
@@ -197,7 +197,7 @@
 
 
 <tr><td width=900>
-➤ 海外三退大潮 https://git.io/zbdodo
+➤ 海外三退大潮 https://git.io/taptap
 </a></td></tr>
 </table>
 </p>
