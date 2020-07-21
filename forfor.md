@@ -15,7 +15,7 @@
 <img src="imgs/jihyg12.png"></div></p
 <div align="center">
 <img src="imgs/uycxds55.png"></div>
-<div align="center"><h3>https://bit.ly/2CkkFMu</h3></div></p>
+<div align="center"><h3>相关报导 https://bit.ly/2CkkFMu</h3></div></p>
 
 <table>
  
