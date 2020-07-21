@@ -15,7 +15,11 @@
 
 <div align=center><h3><b><a href="https://github.com/mingop/faaap/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h3> </div></p> 
 
-
+<div align="center">
+<img src="imgs/jihyg12.png"></div></p
+<div align="center">
+<img src="imgs/uycxds55.png"></div>
+<div align="center"><h3>相关报导 https://bit.ly/2CkkFMu</h3></div></p>
 <table>
  
 <!--<tr>
